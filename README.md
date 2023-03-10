@@ -5,3 +5,4 @@
 # scaffold
 this is a project scaffold for python 
 
+Tested in aws, azure
